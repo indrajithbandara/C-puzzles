@@ -1,6 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-void main ()  {
-switch(printf("hello world")) {
-}
+void main ()
+{
+  switch (printf("hello world"))
+  {
+  }
 }

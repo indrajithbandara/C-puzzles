@@ -1,7 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-void  main () 
+void  main ()
 {
-if(printf("hello world")){
-}
+  if (printf("hello world"))
+  {
+  }
 }
